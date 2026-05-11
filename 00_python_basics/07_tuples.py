@@ -142,6 +142,5 @@ def main():
     # print("\n--- TUPLE IMMUTABILITY ---")
     # tuple_immutability()
 
-
-if __name__ == "__main__":
-    main()
+    if __name__ == "__main__":
+        main()
